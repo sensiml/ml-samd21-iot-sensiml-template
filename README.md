@@ -1,6 +1,5 @@
 ![https://www.microchip.com/](assets/microchip.png)
 # Template MPLAB X Project for SensiML
-Adding test code to see if this is where the read me file is coming from
 # Contents
 * [Overview](#overview)
 * [Knowledge Pack Deployment](#knowledge-pack-deployment)
